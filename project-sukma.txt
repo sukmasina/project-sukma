@@ -1,0 +1,4 @@
+Project-sukma
+Membuat web profile
+Membuat platform pendaftaran sekolah
+Membuat aplikasi belajar
